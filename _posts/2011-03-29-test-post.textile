@@ -1,0 +1,14 @@
+---
+layout: post
+title: Test Post
+---
+
+h1. {{ page.title }}
+
+p(meta). 05 Aug 2011 - Madrid
+
+Paragraph.
+
+h2. Sub heading
+
+Paragraph.
